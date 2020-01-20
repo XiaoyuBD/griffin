@@ -180,4 +180,3 @@ case class ElasticSearchGriffinDataConnector(
   }
 
 }
-
